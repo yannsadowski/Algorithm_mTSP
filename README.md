@@ -39,14 +39,6 @@ jupyter notebook
 
 Then, navigate to the notebook files (`.ipynb`) in the respective directories to run them.
 
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
 ## Contact
 
 For any questions or concerns, please open an issue on this repository and we will get back to you as soon as possible.
