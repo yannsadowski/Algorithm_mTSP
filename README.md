@@ -1,7 +1,7 @@
 # Algorithm_mTSP
 
 This project aims to find road trips for the multiple Traveling Salesman Problem (mTSP).
-<center><img class="img" src="glouton.gif">
+<center><img class="img" src="glouton.gif"><center>
 ## Project Structure
 
 The project is organized into several directories:
